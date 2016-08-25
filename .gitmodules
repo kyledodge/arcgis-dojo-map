@@ -1,0 +1,3 @@
+[submodule "arcgis-js-api"]
+	path = arcgis-js-api
+	url = https://github.com/Esri/arcgis-js-api.git
